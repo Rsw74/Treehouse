@@ -1,5 +1,5 @@
 ## Treehouse
 
-also check out my treehouse profile [here](some addreee.com)
+Blah blah blah
 
-This repo is for all my cource file completed through team Treehouse
+This repo is for all my cource files completed through team Treehouse
